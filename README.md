@@ -1,0 +1,2 @@
+# intership.js
+intership.js
